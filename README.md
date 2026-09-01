@@ -40,7 +40,7 @@ The dashboard includes KPI cards, regional and category analysis, sub-category a
 
 ### Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](./capture.png)
+![E-Commerce Sales Analysis Dashboard](./images/capture.png)
 
 ## Project Files
 
